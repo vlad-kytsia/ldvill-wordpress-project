@@ -11,14 +11,14 @@ https://ldvill.com/
 ---
 
 ## 📸 Preview
-![Homepage Screenshot](./screenshots/homepage.jpg)
+![Homepage Screenshot](./screenshots/homepage-first-screen.png)
 
 ---
 
 ## 🎥 Demo Video
 The demo video shows page interactions, animations, and mobile responsiveness.
 
-➡️ `./demo-video/demo.mp4`
+➡️ ![Demo Video](./demo-video/LDVill.mp4)
 
 ---
 
